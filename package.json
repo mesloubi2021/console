@@ -43,7 +43,7 @@
     "devDependencies": {
         "@playwright/test": "^1.37.1",
         "@sveltejs/adapter-static": "^2.0.3",
-        "@sveltejs/kit": "^1.24.0",
+        "@sveltejs/kit": "^1.30.4",
         "@sveltejs/vite-plugin-svelte": "^2.4.5",
         "@testing-library/dom": "^9.0.1",
         "@testing-library/jest-dom": "^5.16.5",
